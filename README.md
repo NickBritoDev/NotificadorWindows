@@ -12,7 +12,7 @@ Este projeto apresenta um exemplo simples de como criar e exibir notificações 
 6. Uma verificação de permissão é realizada após 1 segundo:
    - Se a permissão foi concedida, a notificação é exibida imediatamente.
    - Se a permissão não foi concedida, uma solicitação é feita ao usuário.
-     - Se o usuário permitir, a notificação é exibida.
+   - Se o usuário permitir, a notificação é exibida.
 
 ## Uso
 
